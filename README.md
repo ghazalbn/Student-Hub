@@ -10,7 +10,7 @@
 
 ## Overview
 
-The College Professor Rating and Course Resources Website is a dynamic and user-friendly platform designed to cater to the needs of college students at [Your University]. This web application allows students to rate and review professors, access course notes and books, and make informed decisions when selecting courses.
+The College Professor Rating and Course Resources Website is a dynamic and user-friendly platform designed to cater to the needs of college students. This web application allows students to rate and review professors, access course notes and books, and make informed decisions when selecting courses.
 
 ## Key Features
 
